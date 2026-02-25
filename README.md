@@ -99,3 +99,7 @@ This application provides AI-generated guidance and is not a substitute for prof
 - CSV-based local storage
 
 - Streamlit Cloud (Deployment)
+
+## 🚀 Live Demo 
+**🔗 Try the App Here:**
+https://ai-health-companion-fxvkxinwfyrigezggjf2cd.streamlit.app/
