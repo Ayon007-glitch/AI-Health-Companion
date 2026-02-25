@@ -79,3 +79,21 @@ The application provides structured meal plans, food image analysis, health insi
 2. Stores data in CSV file
 
 3. Visualizes trends using charts
+<br>
+## 🛠️ Technologies Used
+
+- Python
+
+- Streamlit
+
+- Google Generative AI (Gemini 2.5 Flash)
+
+- Pandas
+
+- PIL (Image Processing)
+
+- ReportLab (PDF generation)
+
+- CSV-based local storage
+
+- Streamlit Cloud (Deployment)
