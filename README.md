@@ -23,3 +23,19 @@ The application provides structured meal plans, food image analysis, health insi
 4. Provides shopping list and meal prep tips
 
 5. PDF download support
+
+**2️⃣ Food Analyzer (Image-Based)**
+
+1. Upload food image (JPG/PNG)
+
+2. AI identifies food items
+
+3. Provides:
+
+   - Estimated calories
+
+   - Macronutrient breakdown
+
+   - Portion estimation
+
+   - Health benefits & dietary concerns
