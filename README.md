@@ -39,3 +39,43 @@ The application provides structured meal plans, food image analysis, health insi
    - Portion estimation
 
    - Health benefits & dietary concerns
+
+**3️⃣ Health Insights**
+
+1. Ask nutrition-related questions
+
+2. AI provides evidence-based explanations
+
+3. Personalized recommendations based on user profile
+
+**4️⃣ AI Workout Planner**
+
+1. Generates structured 7-day workout plan
+
+2. Based on:
+
+   - Fitness level
+
+   - Location (Home/Gym)
+
+   - Equipment
+
+   - Goal (Fat Loss/Muscle Gain/etc.)
+
+3. Includes sets, reps, rest intervals
+
+4. PDF download support
+
+**5️⃣ Progress Tracker**
+
+1. Track:
+
+   - Daily weight
+
+   - Calories consumed
+
+   - Workout completion
+
+2. Stores data in CSV file
+
+3. Visualizes trends using charts
