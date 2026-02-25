@@ -79,7 +79,6 @@ The application provides structured meal plans, food image analysis, health insi
 2. Stores data in CSV file
 
 3. Visualizes trends using charts
-<br>
 ## 🛠️ Technologies Used
 
 - Python
