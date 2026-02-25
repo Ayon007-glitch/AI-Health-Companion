@@ -10,15 +10,15 @@ The application provides structured meal plans, food image analysis, health insi
 
 3. Considers:
 
-- Health goals
+   - Health goals
 
-- Medical conditions
+   - Medical conditions
 
-- Fitness routine
+   - Fitness routine
 
-- Food preferences
+   - Food preferences
 
-- Dietary restrictions
+   - Dietary restrictions
 
 4. Provides shopping list and meal prep tips
 
